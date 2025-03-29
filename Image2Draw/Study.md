@@ -44,6 +44,17 @@ Procedure:
 
 
 
+IMG2GIF
+
+```
+convert -loop 0 -delay 50 Image_Perspective.jpg Image_input.jpg -resize 30% output.gif
+
+```
+
+
+
+
+
 Help:
 
 ```
